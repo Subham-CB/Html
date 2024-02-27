@@ -1,0 +1,19 @@
+table{
+    background-color: black;
+    border: 6px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+#Header{
+    background-color: grey;
+}
+
+#data{
+    background-color: lightgray;
+}
+
+h1{
+    text-align: center;
+}
